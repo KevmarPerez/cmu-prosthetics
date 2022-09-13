@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
-parent_dir = '..\\images\\human'
+parent_dir = '..\\images\\hand'
 input_path = os.path.join(parent_dir, 'input')
 output_path = os.path.join(parent_dir, 'output')
 temp_path = os.path.join(parent_dir, 'temp')
