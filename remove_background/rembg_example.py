@@ -30,4 +30,4 @@ def as_numArry():
     output = remove(input_file)
     cv2.imwrite(output_image_num, output)
 
-as_numArry()
+as_pil()
